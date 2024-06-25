@@ -10,6 +10,9 @@
 
 **Mentor**: SRAVANI GOUNI
 
+![image](https://github.com/Dhruv2613/CODTECH-Task1/assets/122954469/3d6ff017-f0ef-484e-8e39-033c00c6be07)
+
+
 
 Project Overview: To-Do List Web Application
 
